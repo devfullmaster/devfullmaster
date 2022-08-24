@@ -1,7 +1,7 @@
 ### Olá! Eu sou  Rudy Almeida
 
-- 🔭 Hoje Trabalho com front-end
-- 🌱 Estudando Python e React
+- 🔭 Hoje trabalho com front-end
+- 🌱 Estudando back-end NodeJs e React
 
 <div align="center">
   <a href="https://github.com/devfullmaster">
