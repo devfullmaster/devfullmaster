@@ -13,18 +13,18 @@
 </div>
 </h4>
 
-<h3 align="center">  <br>
+<h2 align="center">  <br>
 
 Olá,sou Rudy Almeida Silva
 <br>
 
-</h3>
+</h2>
 
 ```
 Estudante de Analise e desenvolvimento de Sistemas pela Unisa - Centro Universitário Santo Amaro, 
 sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
 ```
-## Tecnologias que estou estudando atualmente 💻
+## <<h3 align="center"> Tecnologias que estou estudando atualmente 💻 </h3>
 
   - Html
   - Css
