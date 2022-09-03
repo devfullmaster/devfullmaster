@@ -24,7 +24,7 @@ Olá,sou Rudy Almeida Silva
 Estudante de Analise e desenvolvimento de Sistemas pela Unisa - Centro Universitário Santo Amaro, 
 sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
 ```
-## <<h3 align="center"> Tecnologias que estou estudando atualmente 💻 </h3>
+## Estudando atualmente 💻
 
   - Html
   - Css
