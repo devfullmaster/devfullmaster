@@ -26,8 +26,6 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ```
 ## Estudando atualmente 💻
 
-  - Html
-  - Css
   - Java
   - React
   - Angular
