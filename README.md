@@ -14,12 +14,11 @@
 </div>
 </h4>
 
-<h2 align="center">  <br>
+<h1 align="center">Hi 👋, Ola Rudy Almedia</h1>
+<h3 align="center">Sou um desenvolvedor Front end
+</h3>
 
-Olá,sou Rudy Almeida Silva
-<br>
-
-</h2>
+![Profile views](https://gpvc.arturio.dev/devfullmaster
 
 ```
 Estudante de Analise e desenvolvimento de Sistemas pela Unisa - Centro Universitário Santo Amaro, 
