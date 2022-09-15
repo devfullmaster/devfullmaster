@@ -15,7 +15,7 @@
 </h4>
 
 <h2 align="center">  <br>
-![Profile views](https://gpvc.arturio.dev/devfullmaster)
+
 Olá,sou Rudy Almeida Silva
 <br>
 
