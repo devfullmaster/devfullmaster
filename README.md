@@ -14,11 +14,10 @@
 </div>
 </h4>
 
-<h1 align="center">Hi 👋, Ola Rudy Almedia</h1>
+<h1 align="center">Oi 👋, Ola Rudy Almedia</h1>
 <h3 align="center">Sou um desenvolvedor Front end
 </h3>
 
-![Profile views](https://gpvc.arturio.dev/devfullmaster
 
 ```
 Estudante de Analise e desenvolvimento de Sistemas pela Unisa - Centro Universitário Santo Amaro, 
