@@ -14,14 +14,14 @@
 </div>
 </h4>
 
-<h1 align="center">Oi 👋, Ola Rudy Almedia</h1>
+<h1 align="center">Oi 👋, Ola Rudy Almeda Silva</h1>
 <h3 align="center">Sou um desenvolvedor Front end
 </h3>
 
 
 ```
 Estudante de Analise e desenvolvimento de Sistemas pela Unisa - Centro Universitário Santo Amaro, 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev Front end com visão no fullstack.
+sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
 ```
 ## Estudando atualmente 💻
 
