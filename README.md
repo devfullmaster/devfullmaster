@@ -16,8 +16,9 @@
 
 <h1 align="center">Ola 👋, meu nome é Rudy Almeda Silva</h1>
 <h2 align="center">Sou um desenvolvedor FullStack
-</h2>
 
+</h2>
+![Profile views](https://gpvc.arturio.dev/devfullmaster)
 
 ```
 ### Estudante de Analise e desenvolvimento de Sistemas pela Unisa - Centro Universitário Santo Amaro, 
@@ -62,9 +63,43 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfullmaster&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfullmaster&layout=compact&langs_count=7&theme=dark"/>
   
+  
+  
   ![Snake animation](https://github.com/devfullmaster/devfullmaster/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+
+### Projetos
+
+[Landing Page Blizzard](https://projeto-landing-page-blizzard.vercel.app/)
+
+- [Repo](https://github.com/devfullmaster/Projeto-Landing-Page-Blizzard)
+- Stack: Html + Css + Gulp + JavaScript + Sass
+
+[Landing Page Neon](https://projeto-neon-beige.vercel.app/)
+
+- [Repo](https://github.com/devfullmaster/Projeto-Neon)
+- Stack: Html + Css + Gulp + JavaScript + Sass + Aos
+
+[Landing Page KingHost](https://projeto-king-host.vercel.app/)
+
+- [Repo](https://github.com/devfullmaster/Projeto-KingHost)
+- Stack: Stack: Html + Css + JavaScript
+
+[Pokedex](http://projeto-pokedex-eight.vercel.app/)
+
+- [Repo](https://github.com/devfullmaster/Projeto-Pokedex)
+- Stack: Stack: Html + Css + Gulp + JavaScript + Sass (Consumindo API)
+
+[Blog](http://projeto-blog-nine.vercel.app/)
+
+- [Repo](https://github.com/devfullmaster/Projeto-Blog)
+- Stack: Stack: Html + Css + Gulp + JavaScript + Sass
+
+[Netflix](https://netflix-rho-opal.vercel.app/)
+
+- [Repo](https://github.com/devfullmaster/App-Filmes)
+- Stack: Html + Css + Bootstrap
 
 
 
