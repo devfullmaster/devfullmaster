@@ -18,8 +18,8 @@
 <h2 align="center">Sou um desenvolvedor FullStack
 
 </h2>
-![Profile views](https://gpvc.arturio.dev/devfullmaster)
 
+![Profile views](https://gpvc.arturio.dev/devfullmaster)
 ```
 ### Estudante de Analise e desenvolvimento de Sistemas pela Unisa - Centro Universitário Santo Amaro, 
 sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.###
@@ -70,6 +70,10 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 
 ### Projetos
+ 
+ 
+
+
 
 [Landing Page Blizzard](https://projeto-landing-page-blizzard.vercel.app/)
 
