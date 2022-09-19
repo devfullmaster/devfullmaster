@@ -107,18 +107,19 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 - [Repo](https://github.com/devfullmaster/App-Filmes)
 - Stack: Html + Css + Bootstrap
----
 
-> Desenvolvido com ❤️ por **Rudy Almeida Silva**
-
----
 #### 💬 Sinta-se a vontade para entrar em contato
 
 <a href="https://bit.ly/githubbbs" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/devfullmaster/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/rudyefamilia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:devfullmaster@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+
+---
+
+> Desenvolvido com ❤️ por **Rudy Almeida Silva**
+
+---
 
 
 
