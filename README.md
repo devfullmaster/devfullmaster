@@ -107,6 +107,11 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 - [Repo](https://github.com/devfullmaster/App-Filmes)
 - Stack: Html + Css + Bootstrap
 
+[Pizza Modal](https://pizza-45hy.vercel.app/)
+
+- [Repo](https://github.com/devfullmaster/Pizza.git)
+- Stack: Html + Css + JavaScrip
+
 #### 💬 Sinta-se a vontade para entrar em contato
 
 <a href="https://bit.ly/githubbbs" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
