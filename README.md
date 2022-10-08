@@ -17,22 +17,23 @@
 </h4>
 
 <h1 align="center">Ola 👋, meu nome é Rudy Almeda Silva</h1>
-<h2 align="center">Sou um desenvolvedor FullStack
+<h2 align="center">Sou um desenvolvedor Devops
 
 </h2>
 
 ![Profile views](https://gpvc.arturio.dev/devfullmaster)
 ```
 ### Estudante de Analise e desenvolvimento de Sistemas pela Unisa - Centro Universitário Santo Amaro, 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.###
+sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack mais focado em Devops.###
 ```
 <h2>​Tecnologias</h2>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="36" width="36">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" width="36">
+  <img src="https://img.icons8.com/color/docker.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/kubernetes.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/amazon-web-services.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/google-cloud-platform.png" width="50" height="50"/>
+  
   
 </p>
   
