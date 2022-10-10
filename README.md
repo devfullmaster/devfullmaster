@@ -33,17 +33,23 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   <img src="https://img.icons8.com/color/kubernetes.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/amazon-web-services.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/google-cloud-platform.png" width="50" height="50"/>
-  
-  
+ <img src="https://img.icons8.com/color/linux.png" width="50" height="50"/>
+    
+</p>
+
+<h2>​Metodologias Ágil</h2>
+
+<p align="left">
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-scrum-agile-flaticons-flat-flat-icons-6.png"/>  <img 
 </p>
   
 <h2>Estudando atualmente 💻</h2> 
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="36" height="36"/>
-          
+   <img src="https://img.icons8.com/color/javascript.png" width="50" height="50"/>
+   <img src="https://img.icons8.com/fluency/node-js.png" width="50" height="50"/>
+   <img src="https://img.icons8.com/officel/react.png" width="50" height="50"/>
+   <img src="https://img.icons8.com/fluency/angularjs.png" width="50" height="50"/>
 </p>
   
  
