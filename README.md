@@ -1,6 +1,5 @@
 <h4 align="center">
 
- 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <hr>
@@ -22,10 +21,12 @@
 </h2>
 
 ![Profile views](https://gpvc.arturio.dev/devfullmaster)
+
 ```
-### Estudante de Analise e desenvolvimento de Sistemas pela Unisa - Centro Universitário Santo Amaro, 
+### Estudante de Analise e desenvolvimento de Sistemas pela Unisa - Centro Universitário Santo Amaro,
 sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack mais focado em Devops.###
 ```
+
 <h2>​Tecnologias</h2>
 
 <p align="left">
@@ -43,7 +44,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-scrum-agile-flaticons-flat-flat-icons-6.png"/>  <img 
 </p>
   
-<h2>Estudando atualmente 💻</h2> 
+<h2>Estudando atualmente 💻</h2>
 
 <p align="left">
    <img src="https://img.icons8.com/color/javascript.png" width="50" height="50"/>
@@ -52,12 +53,9 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
    <img src="https://img.icons8.com/fluency/angularjs.png" width="50" height="50"/>
 </p>
   
- 
 
 
 </div>
-
-
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
@@ -65,8 +63,8 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 - Estou cursando Analise e Desenvolvimento de Sistemas 💻
 
-
 ## Meus dados no Github
+
 <div align="center">
   <a href="https://github.com/devfullmaster">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfullmaster&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -77,12 +75,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   ![Snake animation](https://github.com/devfullmaster/devfullmaster/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-
 ### Projetos
- 
- 
-
-
 
 [Landing Page Blizzard](https://projeto-landing-page-blizzard.vercel.app/)
 
@@ -122,19 +115,11 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 #### 💬 Sinta-se a vontade para entrar em contato
 
 <a href="https://bit.ly/githubbbs" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/devfullmaster/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/rudyefamilia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  
+<a href="https://www.linkedin.com/in/devfullmaster/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/rudyefamilia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ---
 
-> Desenvolvido com ❤️ por **Rudy Almeida Silva**
+> Desenvolvido com ❤️ por **Rudy Almeida Silva** =)
 
 ---
-
-
-
-
-
- 
-
