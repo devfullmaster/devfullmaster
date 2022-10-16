@@ -16,7 +16,7 @@
 </h4>
 
 <h1 align="center">Ola 👋, meu nome é Rudy Almeda Silva</h1>
-<h2 align="center">Sou um desenvolvedor Devops
+<h2 align="center">Sou um desenvolvedor Devops FullStack
 
 </h2>
 
