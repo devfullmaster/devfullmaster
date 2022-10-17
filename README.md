@@ -24,7 +24,7 @@
 
 ```
 ### Estudante de Analise e desenvolvimento de Sistemas pela Unisa - Centro Universitário Santo Amaro,
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack mais focado em Devops.###
+sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack mais focado em Cloud.###
 ```
 
 <h2>​Tecnologias</h2>
